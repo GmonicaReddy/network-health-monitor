@@ -1,0 +1,2 @@
+# dependencies (Flask optional)
+Flask>=2.0.0
